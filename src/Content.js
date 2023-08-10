@@ -1,32 +1,31 @@
 // import images
-import Hero_person from "../assets/images/Hero/person.png";
 
-import figma from "../assets/images/Skills/figma.png";
-import react_native from "../assets/images/Skills/react_native.png";
-import ps from "../assets/images/Skills/ps.png";
-import reactjs from "../assets/images/Skills/react.png";
-import nodejs from "../assets/images/Skills/node.png";
-import nextjs from "../assets/images/Skills/nextjs.png";
-import tailwindcss from "../assets/images/Skills/tailwind.png";
-import redux from "../assets/images/Skills/redux.png";
-import ts from "../assets/images/Skills/ts.png";
+const figma = "/assets/images/Skills/figma.png";
+const react_native = "/assets/images/Skills/react_native.png";
+const ps = "/assets/images/Skills/ps.png";
+const reactjs = "/assets/images/Skills/react.png";
+const nodejs = "/assets/images/Skills/node.png";
+const nextjs = "/assets/images/Skills/nextjs.png";
+const tailwindcss = "/assets/images/Skills/tailwind.png";
+const redux = "/assets/images/Skills/redux.png";
+const ts = "/assets/images/Skills/ts.png";
 
-import services_logo1 from "../assets/images/Services/logo1.png";
-import services_logo2 from "../assets/images/Services/logo2.png";
-import services_logo3 from "../assets/images/Services/logo3.png";
+const services_logo1 = "/assets/images/Services/logo1.png";
+const services_logo2 = "/assets/images/Services/logo2.png";
+const services_logo3 = "/assets/images/Services/logo3.png";
 
-import project1 from "../assets/images/projects/img1.png";
-import project2 from "../assets/images/projects/img2.png";
-import project3 from "../assets/images/projects/img3.png";
-import person_project from "../assets/images/projects/person.png";
+const project1 = "/assets/images/projects/img1.png";
+const project2 = "/assets/images/projects/img2.png";
+const project3 = "/assets/images/projects/img3.png";
+const person_project = "/assets/images/projects/person.png";
 
-import avatar1 from "../assets/images/Testimonials/avatar1.png";
-import avatar2 from "../assets/images/Testimonials/avatar2.png";
-import avatar3 from "../assets/images/Testimonials/avatar3.png";
+const avatar1 = "/assets/images/Testimonials/avatar1.png";
+const avatar2 = "/assets/images/Testimonials/avatar2.png";
+const avatar3 = "/assets/images/Testimonials/avatar3.png";
 
-import Hireme_person from "../assets/images/Hireme/person.png";
-import Hireme_person2 from "../assets/images/Hireme/person2.png";
-import coverVideo from "../assets/videos/coverVideo.mp4";
+const Hireme_person = "/assets/images/Hireme/person.png";
+const Hireme_person2 = "/assets/images/Hireme/person2.png";
+const coverVideo = "/assets/videos/coverVideo.mp4";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
@@ -65,7 +64,6 @@ export const content = {
     firstName: "Koray",
     LastName: "Ozay",
     btnText: "Hire Me",
-    image: Hero_person,
     video: coverVideo,
     hero_content: [
       {

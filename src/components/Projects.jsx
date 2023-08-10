@@ -119,7 +119,7 @@ const Projects = () => {
                   <h5 className="font-bold font-Poppins">{content.title}</h5>
                   <button
                     className={`font-bold text-gray self-end ${
-                      isHover ? "text-teal-300" : "text-gray"
+                      isHover ? "text-black" : "text-gray"
                     }`}
                     onClick={() => {
                       setSelectProject(content);
