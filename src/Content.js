@@ -14,10 +14,10 @@ const services_logo1 = "/assets/images/Services/logo1.png";
 const services_logo2 = "/assets/images/Services/logo2.png";
 const services_logo3 = "/assets/images/Services/logo3.png";
 
-const project1 = "/assets/images/projects/img1.png";
-const project2 = "/assets/images/projects/img2.png";
-const project3 = "/assets/images/projects/img3.png";
-const person_project = "/assets/images/projects/person.png";
+const project1 = "/assets/images/Projects/img1.png";
+const project2 = "/assets/images/Projects/img2.png";
+const project3 = "/assets/images/Projects/img3.png";
+const person_project = "/assets/images/Projects/person.png";
 
 const avatar1 = "/assets/images/Testimonials/avatar1.png";
 const avatar2 = "/assets/images/Testimonials/avatar2.png";
