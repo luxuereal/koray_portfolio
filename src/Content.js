@@ -1,32 +1,32 @@
 // import images
-import Hero_person from "./assets/images/Hero/person.png";
+import Hero_person from "../public/assets/images/Hero/person.png";
 
-import figma from "./assets/images/Skills/figma.png";
-import react_native from "./assets/images/Skills/react_native.png";
-import ps from "./assets/images/Skills/ps.png";
-import reactjs from "./assets/images/Skills/react.png";
-import nodejs from "./assets/images/Skills/node.png";
-import nextjs from "./assets/images/Skills/nextjs.png";
-import tailwindcss from "./assets/images/Skills/tailwind.png";
-import redux from "./assets/images/Skills/redux.png";
-import ts from "./assets/images/Skills/ts.png";
+import figma from "../public/assets/images/Skills/figma.png";
+import react_native from "../public/assets/images/Skills/react_native.png";
+import ps from "../public/assets/images/Skills/ps.png";
+import reactjs from "../public/assets/images/Skills/react.png";
+import nodejs from "../public/assets/images/Skills/node.png";
+import nextjs from "../public/assets/images/Skills/nextjs.png";
+import tailwindcss from "../public/assets/images/Skills/tailwind.png";
+import redux from "../public/assets/images/Skills/redux.png";
+import ts from "../public/assets/images/Skills/ts.png";
 
-import services_logo1 from "./assets/images/Services/logo1.png";
-import services_logo2 from "./assets/images/Services/logo2.png";
-import services_logo3 from "./assets/images/Services/logo3.png";
+import services_logo1 from "../public/assets/images/Services/logo1.png";
+import services_logo2 from "../public/assets/images/Services/logo2.png";
+import services_logo3 from "../public/assets/images/Services/logo3.png";
 
-import project1 from "./assets/images/projects/img1.png";
-import project2 from "./assets/images/projects/img2.png";
-import project3 from "./assets/images/projects/img3.png";
-import person_project from "./assets/images/projects/person.png";
+import project1 from "../public/assets/images/projects/img1.png";
+import project2 from "../public/assets/images/projects/img2.png";
+import project3 from "../public/assets/images/projects/img3.png";
+import person_project from "../public/assets/images/projects/person.png";
 
-import avatar1 from "./assets/images/Testimonials/avatar1.png";
-import avatar2 from "./assets/images/Testimonials/avatar2.png";
-import avatar3 from "./assets/images/Testimonials/avatar3.png";
+import avatar1 from "../public/assets/images/Testimonials/avatar1.png";
+import avatar2 from "../public/assets/images/Testimonials/avatar2.png";
+import avatar3 from "../public/assets/images/Testimonials/avatar3.png";
 
-import Hireme_person from "./assets/images/Hireme/person.png";
-import Hireme_person2 from "./assets/images/Hireme/person2.png";
-import coverVideo from "./assets/videos/coverVideo.mp4";
+import Hireme_person from "../public/assets/images/Hireme/person.png";
+import Hireme_person2 from "../public/assets/images/Hireme/person2.png";
+import coverVideo from "../public/assets/videos/coverVideo.mp4";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
